@@ -7,8 +7,8 @@
 **Match every rider with the right driver.**
 A ride-hailing assignment problem solved with four algorithms, side by side.
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Open_the_site-ffd600?style=for-the-badge&labelColor=0a40d4)](https://YOUR-USERNAME.github.io/YOUR-REPO/)
-[![Source](https://img.shields.io/badge/SOURCE-GitHub-0a40d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME/YOUR-REPO)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Open_the_site-ffd600?style=for-the-badge&labelColor=0a40d4)](https://manoj-kumar2277.github.io/algorithm-explorer/)
+[![Source](https://img.shields.io/badge/SOURCE-GitHub-0a40d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoj-kumar2277/algorithm-explorer)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
