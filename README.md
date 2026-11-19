@@ -7,8 +7,8 @@
 **Match every rider with the right driver.**
 A ride-hailing assignment problem solved with four algorithms, side by side.
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Open_the_site-ffd600?style=for-the-badge&labelColor=0a40d4)](https://manoj-kumar2277.github.io/algorithm-explorer/)
-[![Source](https://img.shields.io/badge/SOURCE-GitHub-0a40d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoj-kumar2277/algorithm-explorer)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Open_the_site-ffd600?style=for-the-badge&labelColor=0a40d4)](https://YOUR-USERNAME.github.io/YOUR-REPO/)
+[![Source](https://img.shields.io/badge/SOURCE-GitHub-0a40d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME/YOUR-REPO)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -96,7 +96,7 @@ The layout switches to a single column on phones. Screenshots below are from the
 |---|---|---|---|---|---|---|
 | 1 | **Brute force** | [`bruteForce.js`](js/bruteForce.js) | Try all n! pairings and keep the cheapest | `O(n!)` | `O(n)` | ✅ |
 | 2 | **Greedy** | [`greedy.js`](js/greedy.js) | Each rider takes the nearest free driver | `O(n²)` | `O(n)` | ❌ not always |
-| 3 | **Dynamic programming** | [`dynamicProgramming.js`](js/dynamicProgramming.js) | Bitmask of used drivers, reuse the best result for each mask | `O(n²·2ⁿ)` | `O(2ⁿ)` | ✅ |
+| 3 | **Dynamic programming** | [`dynamicProgramming.js`](js/dynamicProgramming.js) | Bitmask of used drivers, reuse the best result for each mask | `O(n·2ⁿ)` | `O(2ⁿ)` | ✅ |
 | 4 | **Backtracking** | [`backtracking.js`](js/backtracking.js) | Assign one rider at a time and prune branches that cannot win | `O(n!)` worst case | `O(n)` | ✅ |
 
 > **Key takeaway:** greedy is the fastest but can return a longer total. Dynamic programming and backtracking reach the same best answer as brute force while doing far less work.
